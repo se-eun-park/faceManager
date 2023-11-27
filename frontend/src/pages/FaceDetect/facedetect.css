@@ -1,0 +1,240 @@
+.text{
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.h1 {
+    left: calc(50% - 180px/2 - 0.5px);
+    font-family: 'Noto Serif KR';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 22px;
+    text-align: center;
+    color: #3A3326;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 30px;
+}
+.h5 {
+    left: calc(50% - 290px/2);
+    margin: 20px;
+    font-family: 'Noto Serif KR';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.4rem;
+    line-height: 34px;
+    text-align: center;
+    color: #3A3326;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.html-Bpo{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.auto-group-qevz-p75 {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 20px;
+    font-family: 'Noto Serif KR';
+    }
+.upload_form{
+    background-color: #e8e5df;
+    border: solid 0.1rem #3a3a3a;
+    box-sizing: border-box;
+    margin-bottom: 120px;
+    margin-top: 100px;
+    align-items: center;
+    width: 730px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    }
+.upload_photoform {
+    align-items: center;
+    background-color: #e8e5df;
+    color: #3a3a3a;
+    display: flex;
+    flex-shrink: 0;
+    font-family: 'Noto Serif KR';
+    font-size: 20px;
+    font-weight: 700;
+    justify-content: center;
+    line-height: 1.435;
+    white-space: nowrap;
+    width: 100%;
+    height: 100%;
+    }
+.text1 {
+    color: #393326;
+    flex-shrink: 0;
+    font-family: 'Noto Serif KR';
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 1.435;
+    margin-bottom: 2.4rem;
+    text-align: center;
+    white-space: nowrap;
+}
+.RadioTitle{
+    flex-shrink: 0;
+    font-family: 'Noto Serif KR';
+    font-size: 2.0rem;
+    font-weight: 700;
+    white-space: nowrap;
+    margin-bottom: 20px;
+}
+.text_tension{
+    color: #515FA8;
+    font-family: 'Noto Serif KR';
+    font-size: 2.0rem;
+    font-weight: 700;
+    white-space: nowrap;
+    margin-bottom: 0px;
+}
+
+/* NewRadioButton 시작 */
+.NewRadioset{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 30px;
+}
+.Radio-container{
+    display: flex;
+    align-items: center;
+}
+.label_content1{
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.radio-content1{
+    display: flex;
+    align-items: center;
+    border-radius: 30px;
+    box-shadow: 2px 3px 4px rgba(0, 0, 0, 0.25);
+    width: 520px;
+}
+
+.RadioBtn_content1{
+    margin-right: 40px;
+    margin-left: 40px;
+}
+.content1{
+    margin-right: 64px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+p{
+    font-family: 'Noto Serif KR'; 
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+.text_top1{
+    font-family: 'Noto Serif KR';
+    font-weight: 400;
+    font-size: 40px;
+    margin-bottom: 7px;
+    margin-top: 10px;
+    line-height: 40px;
+    white-space: nowrap;
+}
+.text_center1{
+    margin-top: 0px;
+    margin-bottom: 5px;
+    font-size: 15px;
+    line-height: 15px;
+    white-space: nowrap;
+}
+.text_bottom1{
+    margin-top: 0px;
+    font-size: 10px;
+    margin-bottom: 10px;
+    line-height: 10px;
+    white-space: nowrap;
+}
+.text_description1{
+    margin-right: 64px;
+    text-align: center;
+}
+
+
+.label_content2{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.radio-content2{
+    display: flex;
+    align-items: center;
+    border-radius: 30px;
+    box-shadow: 2px 3px 4px rgba(0, 0, 0, 0.25);
+    width: 520px;
+}
+
+.RadioBtn_content2{
+    margin-right: 40px;
+    margin-left: 40px;
+}
+.content2{
+    margin-left: 64px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.text_top2{
+    font-family: 'Noto Serif KR';
+    font-weight: 400;
+    font-size: 40px;
+    margin-bottom: 7px;
+    margin-top: 10px;
+    line-height: 40px;
+    white-space: nowrap;
+}
+.text_center2{
+    margin-top: 0px;
+    margin-bottom: 5px;
+    font-size: 15px;
+    line-height: 15px;
+    white-space: nowrap;
+}
+.text_bottom2{
+    margin-top: 0px;
+    font-size: 10px;
+    margin-bottom: 10px;
+    line-height: 10px;
+    white-space: nowrap;
+}
+.text_description2{
+    margin-left: 64px;
+    text-align: center;
+}
+
+.label_content2{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+/* 적응형 레이아웃 설정 */
+@media (max-width: 1050px) {
+    .radio-content1 {
+      width: 100%; /* 화면 크기에 맞게 변하는 적응형 너비 */
+    }
+    .radio-content2 {
+        width: 100%; /* 화면 크기에 맞게 변하는 적응형 너비 */
+      }
+}
+/* 라디오 set 끝 */
+
+[type='radio']{
+    width: 13px;
+    height: 13px;
+}

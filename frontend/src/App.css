@@ -1,0 +1,11 @@
+:root{
+    --main-color: #E8E5DF;
+}
+
+body {
+    background-color: var(--main-color);
+
+}
+body::-webkit-scrollbar {
+    display: none;
+}
